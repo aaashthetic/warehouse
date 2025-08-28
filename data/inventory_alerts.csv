@@ -1,0 +1,11 @@
+alert_id,sku,stock,alert,created_at
+1,sku-001,57,In Stock,2025-07-26T05:06:12
+2,sku-008,7,Limited Stock,2025-08-02T10:36:20
+3,sku-004,100,In Stock,2025-08-02T11:47:17
+4,sku-001,40,In Stock,2025-08-07T23:45:31
+5,sku-009,90,In Stock,2025-07-28T06:00:53
+6,sku-009,76,In Stock,2025-08-10T01:46:26
+7,sku-005,30,Low Stock,2025-08-01T22:40:21
+8,sku-007,83,In Stock,2025-08-02T17:17:08
+9,sku-007,9,Limited Stock,2025-07-27T12:59:49
+10,sku-006,36,In Stock,2025-07-25T17:30:16
