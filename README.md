@@ -86,36 +86,11 @@ A full-featured warehouse inventory dashboard built with **Next.js**, **Chart.js
 
 ---
 
-## 📂 Project Structure
-
-warehouse/
-├── backend/ # Laravel backend
-│ ├── app/ # Models, controllers
-│ ├── database/ # Migrations & seeders
-│ ├── routes/ # API routes
-│ └── ... # Config, middleware, etc.
-│
-├── frontend/ # Next.js frontend
-│ ├── components/ # Reusable components
-│ │ └── InventoryChart.js
-│ ├── pages/ # Page components
-│ │ └── dashboard.js
-│ └── ... # Styles, utils, etc.
-│
-├── flask-microservice/ # Flask API & ML service
-│ ├── app.py # API endpoints
-│ └── demand_model_train.py# Demand forecasting model training
-│
-├── data/ # Dataset files
-│ └── \*.csv
-│
-├── docker-compose.yml # Docker setup for all services
-└── README.md # Project documentation
-
----
-
 ## Team 1
 
 👩‍💻 Ashley Egera
+
 👨‍💻 James Tristan Landa
+
 👨‍💻 Kharl Chester Velasco
+
