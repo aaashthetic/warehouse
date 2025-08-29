@@ -51,8 +51,8 @@ A full-featured warehouse inventory dashboard built with **Next.js**, **Chart.js
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd warehouse-inventory-dashboard
+   git clone https://github.com/aaashthetic/warehouse.git
+   cd warehouse
 
    ```
 
