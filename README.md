@@ -34,7 +34,7 @@ A full-featured warehouse inventory dashboard built with **Next.js**, **Chart.js
 - **PostgreSQL:** Database for storing product, inventory, and RFID data
 - **Flask API:** Handles sensor, demand, and RFID scan data and exposes endpoints
 - **Laravel:** Backend for storing and routing data to PostgreSQL
-- **🐳 Docker:** Containerized environment for consistent development and deployment
+- **Docker:** Containerized environment for consistent development and deployment
 
 ---
 
